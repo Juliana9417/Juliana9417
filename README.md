@@ -1,5 +1,5 @@
 # Hi everyone! Welcome... 
-## I'm Raden Juliana Putri Dewi, Embarking on my journey in data science
+## I'm Raden Juliana Putri Dewi, embarking on my journey in data science
 
 * **Graduated Data Science** Student from [Data Science Bootcamp in Rakamin Academy](https://rakamin.com/)
 * _**Interested in Data & Analytics, Machine Learning, Bussiness Intelligence **_
