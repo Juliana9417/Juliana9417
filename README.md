@@ -7,7 +7,7 @@
 * _**Let's Connect**_
   - :iphone: +6282320722004
   - :email: rdjulianaputri@gmail.com
-  - [LinkedIn](www.linkedin.com/in/raden-juliana-putri-dewi)
+  - [LinkedIn](https://www.linkedin.com/in/raden-juliana-putri-dewi/))
 
 <!---
 Juliana9417/Juliana9417 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
