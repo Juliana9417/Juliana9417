@@ -3,7 +3,6 @@
 
 * **Graduated Data Science** Student from [Data Science Bootcamp in Rakamin Academy](https://rakamin.com/)
 * **Interested in Data & Analytics, Machine Learning, Bussiness Intelligence**
-* **Currently work as a Virtual Assistant**
 * _**Let's Connect**_
   - :iphone: +6282320722004
   - :email: rdjulianaputri@gmail.com
